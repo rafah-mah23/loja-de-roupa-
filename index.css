@@ -1,0 +1,23 @@
+header {
+    background-color: rgb(215, 235, 250);
+    padding: 20px;
+    text-align: center;
+}
+
+li{
+list-style-type: none;
+}
+
+
+.grupo-fotos{
+ display: flex;
+ justify-content: space-between;   
+}
+
+img{
+    width: 200px;
+}
+
+.banner img {
+width: 100%;
+}
